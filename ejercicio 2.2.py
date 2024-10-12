@@ -8,4 +8,4 @@ fuerza = (q1 * q2) / (r ** 2)
 fuerza_final = round(fuerza, 10)
 
 #SALIDA
-print("La fuerza es:", fuerza_final)
+print("La fuerza es:", str(fuerza_final))
